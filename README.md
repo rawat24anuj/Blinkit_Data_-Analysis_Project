@@ -1,4 +1,9 @@
 # Blinkit_Data_-Analysis_Project
+## 📊 Sample Visualization
+
+![Blinkit]("D:\blinkit_logo.png")
+
+
 
 Analyze Blinkit's sales performance, customer satisfaction, and inventory distribution in Python.
 This repository mirrors the KPI design and chart ideas from the project presentation (see `reports/`)
