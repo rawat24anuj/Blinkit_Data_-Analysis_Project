@@ -1,7 +1,8 @@
 # Blinkit_Data_-Analysis_Project
 ## 📊 Sample Visualization
 
-![Blinkit](D:/blinkit_logo.png)
+![Blinkit](https://imgs.search.brave.com/MvM-BvxrVYkx--LJwAplq6l6AqbBix-PV0j5BfIzyWU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9icmFu/ZGxvZ29zLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NS9ibGlua2l0LWxv/Z29fYnJhbmRsb2dv/cy5uZXRfeXZ5MW0t/NTEyeDUxMi5wbmc)
+)
 
 
 
