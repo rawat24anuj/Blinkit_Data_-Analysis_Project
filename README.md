@@ -1,7 +1,7 @@
 # Blinkit_Data_-Analysis_Project
 ## 📊 Sample Visualization
 
-![Blinkit]("D:\blinkit_logo.png")
+![Blinkit]("D:blinkit_logo.png")
 
 
 
